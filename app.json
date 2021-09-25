@@ -1,5 +1,5 @@
 {
-    "name": "v-e3",
+    "name": "ve",
     "description": "Deploy V on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
@@ -17,6 +17,6 @@
         }
     },
     "website": "http://www.apple.com",
-    "repository": "https://github.com/Tossy654/vdemo44",
+    "repository": "https://github.com/Tossy654/bkdemo",
     "stack": "container"
 }
